@@ -1,0 +1,23 @@
+Perfiles:
+Candidato a mencion honorifica
+Estudiante equilibrado
+Estudiante con riesgo medio
+Estudiante en situación crítica
+
+Variables:
+Promedio academico (0 a 20)
+Porcentaje de asistencia (0 - 100%)
+Número de cursos desaprobados
+Horas de sueño promedio por noche
+Nivel de ansiedad reportado (escala 1 a 5)
+Participación en actividades extracurriculares (si/no)
+Reportes disciplinarios (0 o más)
+Ingresos del hogar (S/.)
+Tiempo promedio de estudio semanal (horas)
+Acceso a internet en casa (si/no)
+Nivel de motivacion autopercibido (1 a 5)
+Horas en redes sociales diarias (estimadas)
+
+Incluir:
+modulo de prediccion de evolucion academica y generar recomendaciones
+automaticas personalizadas.
